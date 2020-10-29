@@ -1,8 +1,8 @@
 # DraftTicketPriceCalculator
 
-Projekta realizēšanai tika izmantots gradle, junit4.12 un JDK15.
+Uzdevuma realizēšanai tika izmantots gradle, junit4.12 un JDK15.
 
-Projekts realizēts ar šādām klasēm - **Passenger, TicketPrice**, **DraftTicket** un **DraftTicketPriceCalculator**.
+Uzdevums realizēts ar šādām klasēm - **Passenger, TicketPrice**, **DraftTicket** un **DraftTicketPriceCalculator**.
 
 **Passenger** objekts reprezentē pasažieri, tam ir 2 vērtības - isChild un luggageItemCount.
 Galvenā funkcija (calculateDraftTicketPrice) kā ievaddatus izmanto tieši šī objekta sarakstu.
